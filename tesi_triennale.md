@@ -96,7 +96,9 @@ Successivamente verranno fornite istruzioni dettagliate riguardo:
 - struttura del documento;
 - modalità di condivisione;
 - revisione del testo;
-- formattazione.
+- formattazione
+
+Prima di cominciare a scrivere la tesi, contattare il relatore.
 
 ### Gestione della bibliografia
 
