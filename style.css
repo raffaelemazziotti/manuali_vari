@@ -1,0 +1,172 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+body {
+    min-height: 100vh;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(135deg, #2e3440, #3b4252);
+    color: #eceff4;
+    line-height: 1.7;
+}
+
+.page {
+    width: 100%;
+    max-width: 1050px;
+    margin: 0 auto;
+    padding: 40px 20px;
+}
+
+.hero {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.hero h1 {
+    color: #88c0d0;
+    font-size: 3rem;
+    margin-bottom: 10px;
+}
+
+.hero p {
+    color: #d8dee9;
+    font-size: 1.15rem;
+}
+
+.card-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 30px;
+}
+
+.card {
+    display: block;
+    padding: 32px;
+    min-height: 230px;
+    border-radius: 22px;
+    text-decoration: none;
+    color: inherit;
+    background: rgba(255, 255, 255, 0.06);
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    box-shadow: 0 10px 35px rgba(0, 0, 0, 0.3);
+    transition: 0.25s ease;
+}
+
+.card:hover {
+    transform: translateY(-6px);
+    border-color: rgba(136, 192, 208, 0.55);
+}
+
+.icon {
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+
+.card h2 {
+    color: #88c0d0;
+    margin: 0 0 15px;
+}
+
+.card p {
+    color: #d8dee9;
+    margin: 0;
+}
+
+.toolbar {
+    display: flex;
+    justify-content: space-between;
+    gap: 16px;
+    margin-bottom: 30px;
+    flex-wrap: wrap;
+}
+
+.button-link {
+    display: inline-block;
+    padding: 12px 18px;
+    border-radius: 12px;
+    border: 1px solid rgba(136, 192, 208, 0.35);
+    background: rgba(136, 192, 208, 0.12);
+    color: #88c0d0;
+    text-decoration: none;
+    font-weight: bold;
+    cursor: pointer;
+    font-family: inherit;
+    font-size: 1rem;
+}
+
+.button-link:hover {
+    background: rgba(136, 192, 208, 0.22);
+}
+
+.content {
+    background: rgba(255, 255, 255, 0.055);
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    border-radius: 22px;
+    padding: 35px;
+    box-shadow: 0 10px 35px rgba(0, 0, 0, 0.28);
+}
+
+.content h1,
+.content h2,
+.content h3 {
+    color: #88c0d0;
+}
+
+.content a {
+    color: #88c0d0;
+}
+
+.content blockquote {
+    margin: 24px 0;
+    padding: 16px 20px;
+    border-left: 4px solid #88c0d0;
+    background: rgba(136, 192, 208, 0.08);
+    border-radius: 8px;
+}
+
+.error-box {
+    padding: 30px;
+    border-radius: 18px;
+    background: rgba(191, 97, 106, 0.15);
+    border: 1px solid rgba(191, 97, 106, 0.35);
+}
+
+@media print {
+    body {
+        background: white;
+        color: black;
+    }
+
+    .toolbar {
+        display: none;
+    }
+
+    .page {
+        max-width: 100%;
+        padding: 0;
+    }
+
+    .content {
+        box-shadow: none;
+        border: none;
+        background: white;
+        color: black;
+    }
+
+    .content h1,
+    .content h2,
+    .content h3,
+    .content a {
+        color: black;
+    }
+}
