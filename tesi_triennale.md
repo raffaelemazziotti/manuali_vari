@@ -181,7 +181,7 @@ La sezione **Bibliografia** deve essere inserita alla fine della tesi e classifi
 Il testo deve essere impostato come:
 
 - paragrafo normale;
-- allineamento **non giustificato**;
+- allineamento **giustificato**;
 - struttura leggibile e coerente.
 
 > ✅ Un testo leggibile e ben organizzato migliora significativamente la qualità percepita della tesi.
