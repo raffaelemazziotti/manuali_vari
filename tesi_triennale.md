@@ -277,3 +277,29 @@ La consegna della tesi al docente per la correzione finale deve avvenire **non o
 Consegne effettuate oltre questa scadenza potrebbero non garantire tempi sufficienti per la revisione completa dell’elaborato.
 
 > ⚠️ **Le correzioni richiedono tempo. Una consegna tardiva può compromettere la qualità finale della tesi.**
+
+# 9. 📧 Invio della tesi alla Commissione
+
+Quando viene annunciata la composizione della Commissione di laurea, lo studente deve inviare il proprio elaborato di tesi a **tutti i membri della Commissione**, includendo anche il **relatore** tra i destinatari.
+
+L’invio deve avvenire con adeguato anticipo rispetto alla data della discussione, allegando alla mail il file della tesi in formato PDF.
+
+> ⚠️ **La tesi deve essere inviata all’intera Commissione, relatore compreso.**
+
+---
+
+## ✉️ Modello di email
+
+**Oggetto:** Tesi di Laurea, [Nome Cognome candidato] ([matricola])
+
+Gentile Commissione,
+
+sono [Nome Cognome], studentessa/studente del corso di laurea in [corso], matricola [matricola].
+
+Discuterò la mia tesi di laurea dal titolo *"[Titolo della tesi]"*, di cui è relatore il Professor/la Professoressa [Nome Cognome relatore], il giorno [data della discussione].
+
+Allego alla presente il mio elaborato di tesi in formato PDF.
+
+Ringraziando per l’attenzione, porgo cordiali saluti.
+
+[Firma]
