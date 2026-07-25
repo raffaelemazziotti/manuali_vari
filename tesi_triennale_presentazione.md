@@ -4,21 +4,21 @@
 
 ---
 
-# ⏱️ Durata della presentazione
+## ⏱️ Durata della presentazione
 
 La presentazione dovrà durare **circa 6 minuti**.
 
-Come regola generale, una presentazione di questa durata richiede mediamente **5-7 slide**, generalmente **6 slide** sono sufficienti.
+Come regola generale, una presentazione di questa durata richiede mediamente **5–7 slide**; in genere, **6 slide** sono sufficienti.
 
 > ⚠️ Superare il tempo disponibile influenza negativamente la valutazione finale. Rimanete tassativamente nei tempi.
 
 ---
 
-# 📋 Struttura consigliata
+## 📋 Struttura consigliata
 
-Si consiglia di organizzare la presentazione secondo il seguente schema.
+Per le tesi compilative si consiglia di organizzare la presentazione secondo il seguente schema.
 
-## 1. Introduzione (1 slide)
+### 1. Introduzione (1 slide)
 
 Presentare brevemente:
 
@@ -30,7 +30,7 @@ Presentare brevemente:
 
 ---
 
-## 2. Concetti chiave (1-4 slide)
+### 2. Concetti chiave (3–4 slide)
 
 Questa rappresenta la parte centrale della presentazione.
 
@@ -45,9 +45,9 @@ Mostrare:
 
 ---
 
-## 3. Ripercussioni sull'uomo e prospettive future (1 slide)
+### 3. Implicazioni e prospettive future (facoltativa, 1 slide)
 
-Descrivere:
+Solo quando pertinente, descrivere:
 
 * le implicazioni applicative;
 * la rilevanza clinica o translazionale;
@@ -55,32 +55,40 @@ Descrivere:
 
 ---
 
-## 4. Conclusione (1 slide)
+### 4. Conclusione (1 slide)
 
 Riassumere in modo molto sintetico:
 
 * il messaggio principale della tesi;
 * i concetti che la commissione dovrebbe ricordare al termine della presentazione.
 
-> 🎯 Una buona conclusione lascia alla commissione un messaggio chiaro e facilmente ricordabile. Se la commissione capisce quello che avete fatto e perche' verrete valutati in modo molto positivo.
+> 🎯 Una buona conclusione lascia alla commissione un messaggio chiaro e facilmente ricordabile. Se la commissione capisce quello che avete fatto e perché verrete valutati in modo molto positivo.
 
-## Tesi sperimentali
+### Tesi sperimentali
 
-Per le tesi sperimentali utilizzate la stessa struttura della tesi, con:
+Per le tesi sperimentali la presentazione deve seguire questa struttura:
 
 * introduzione
-* materiali & metodi
+* materiali e metodi
 * risultati
-* conclusione
+* discussione e conclusioni
 
 
 ---
 
-# 🖥️ Preparazione delle slide
+## 🎨 Template ufficiale
 
-## Utilizzare Google Slides
+Per la preparazione delle slide è disponibile il seguente template:
 
-La presentazione deve essere preparata utilizzando **Google Slides**.
+https://docs.google.com/presentation/d/1QECgO-FYK_LOEfFXAstM6kGjZaM153_ImP1Ghl7H55U/edit
+
+---
+
+## 🖥️ Preparazione delle slide
+
+### Utilizzare Google Slides
+
+Si raccomanda di preparare la presentazione utilizzando **Google Slides**.
 
 Questo permette:
 
@@ -92,45 +100,38 @@ Questo permette:
 
 ---
 
-## Esportazione finale
+### ⚠️ Compatibilità PowerPoint
+
+I file PowerPoint esistono in numerose versioni e non tutti gli effetti grafici sono compatibili tra computer differenti.
+
+Per questo motivo si raccomanda di:
+
+* non utilizzare effetti di animazione
+* non utilizzare transizioni elaborate
+* non utilizzare effetti speciali
+* non utilizzare font particolari
+* creare comunque una versione statica in formato `PDF`
+
+> ⚠️ Una presentazione semplice è generalmente più efficace e più sicura.
+
+> 💡 Per simulare animazioni semplici, duplicare la slide e aggiungere o rimuovere l’immagine o l’elemento da far comparire o sparire. Questa soluzione è efficace e compatibile con diversi formati.
+
+---
+
+### Esportazione finale
 
 Quando la presentazione è pronta:
 
 1. Aprire il menu **File**
 2. Selezionare **Scarica**
 3. Scegliere **Microsoft PowerPoint (.pptx)**
+4. Ripetere l’operazione scegliendo **Documento PDF (.pdf)**
 
-Salvare il file sul proprio computer.
-
-Successivamente:
-
-* copiare il file su una chiavetta USB;
-* portare la chiavetta il giorno della laurea;
-* utilizzare il computer presente nell'aula per la presentazione.
-
-> ❗ Non è possibile utilizzare il proprio computer personale durante la discussione.
+Salvare entrambi i file sul proprio computer.
 
 ---
 
-# ⚠️ Compatibilità PowerPoint
-
-I file PowerPoint esistono in numerose versioni e non tutti gli effetti grafici sono compatibili tra computer differenti.
-
-Per questo motivo si raccomanda di:
-
-* non utilizzare animazioni
-* non utilizzare transizioni elaborate
-* non utilizzare effetti speciali
-* non utilizzare font particolari
-* creare comunque un a versione `PDF` statica
-
-> ⚠️ Una presentazione semplice è generalmente più efficace e più sicura.
-
-> 💡 Se volete creare semplici animazioni copiate la slide e aggiungete o togliete l'immagine o la parte che volete far comparire o sparire. Questo vi permette di avere semplici animazioni, molto efficaci e altamente compatibili in vari formati.
-
----
-
-# 📊 Uso di immagini e dati
+## 📊 Uso di immagini e dati
 
 Le slide devono contenere **poco testo**.
 
@@ -152,15 +153,17 @@ In generale:
 
 Le slide devono essere un supporto al vostro discorso e non un documento da leggere.
 
-> 💡 Se una slide contiene troppo testo, probabilmente contiene troppo poco materiale visivo. Il pubblico non puo' ascoltare e leggere contemporaneamente.
+> 💡 Se una slide contiene troppo testo, probabilmente contiene troppo poco materiale visivo. Il pubblico non può ascoltare e leggere contemporaneamente.
 
 > 💡 Usare immagini grandi, con testo di grandezza adeguata. Anche il pubblico in fondo deve poter leggere il contenuto e capire.
 
 ---
 
-## Utilizzare le figure della tesi
+### Utilizzare le figure della tesi
 
 Le immagini e i dati utilizzati nella tesi costituiscono la base della presentazione.
+
+Figure, grafici e dati devono riportare sempre la fonte.
 
 Si raccomanda di riutilizzare:
 
@@ -171,11 +174,11 @@ Si raccomanda di riutilizzare:
 
 > 💡 In molti casi una buona figura può sostituire diversi minuti di spiegazione verbale.
 
-> 💡 Potete modificare le immagini per renderle piu' leggibili in modalita' presentazione.
+> 💡 Potete modificare le immagini per renderle più leggibili in modalità presentazione.
 
 ---
 
-## Generazione di immagini
+### Generazione di immagini
 
 Per creare schemi e immagini illustrative è possibile utilizzare strumenti di intelligenza artificiale come `ChatGPT` o software analoghi.
 
@@ -183,7 +186,7 @@ Le immagini generate devono avere uno scopo esplicativo e contribuire alla compr
 
 ---
 
-# 🏃 Prove della presentazione
+## 🏃 Prove della presentazione
 
 La presentazione deve essere provata più volte prima della discussione.
 
@@ -199,36 +202,31 @@ Si consiglia di:
 
 ---
 
-# ☁️ Materiale da caricare nel Drive
+## ☁️ Consegne finali
 
-Prima della laurea devono essere presenti nel Drive condiviso:
+Dopo avere esportato la presentazione in formato `.pptx` e `PDF`:
 
-* la versione definitiva della tesi;
-* la versione definitiva della presentazione.
+1. caricare nel Drive condiviso le versioni definitive della tesi e della presentazione;
+2. inviare la tesi in PDF a tutti i membri della Commissione, relatore compreso;
+3. copiare i file `.pptx` e `PDF` della presentazione su una chiavetta USB;
+4. portare la chiavetta il giorno della laurea e utilizzare il computer presente nell'aula.
 
-Verificare che entrambi i documenti siano aggiornati.
-
----
-
-# 🎨 Template ufficiale
-
-Per la preparazione delle slide è disponibile il seguente template:
-
-https://docs.google.com/presentation/d/1QECgO-FYK_LOEfFXAstM6kGjZaM153_ImP1Ghl7H55U/edit
+> ❗ Non è possibile utilizzare il proprio computer personale durante la discussione.
 
 ---
 
-# ✅ Checklist finale
+## ✅ Checklist finale
 
 Prima della laurea verificare di aver:
 
-* [ ] caricato la tesi definitiva nel Drive;
-* [ ] caricato la presentazione definitiva nel Drive;
 * [ ] esportato la presentazione in formato `.pptx` e `PDF`;
-* [ ] copiato il file su una chiavetta USB;
+* [ ] caricato nel Drive le versioni definitive della tesi e della presentazione;
+* [ ] inviato la tesi in PDF a tutta la Commissione, relatore compreso;
+* [ ] copiato i file `.pptx` e `PDF` della presentazione su una chiavetta USB;
 * [ ] verificato che la presentazione duri circa 6 minuti;
 * [ ] eliminato animazioni e transizioni non necessarie;
 * [ ] controllato che le immagini siano leggibili;
+* [ ] verificato fonti e crediti di figure, grafici e dati e dichiarato strumento e modalità d’uso per le immagini generate o modificate con intelligenza artificiale;
 * [ ] provato la presentazione più volte.
 
 > 🎓 Una presentazione efficace è semplice, chiara, ben illustrata e perfettamente nei tempi.

@@ -4,7 +4,7 @@
 
 ---
 
-# 1. 📅 Scelta della sessione di laurea
+## 1. 📅 Scelta della sessione di laurea
 
 Lo studente deve innanzitutto scegliere la sessione entro cui intende laurearsi.
 
@@ -22,7 +22,7 @@ Le date e le relative scadenze possono essere consultate nel calendario didattic
 
 ---
 
-# 2. 👨‍🏫 Contatto con il docente
+## 2. 👨‍🏫 Contatto con il docente
 
 Dopo aver individuato la sessione di laurea desiderata, lo studente deve contattare il docente per discutere la possibilità di svolgere la tesi.
 
@@ -37,7 +37,7 @@ Durante il primo incontro verranno discussi:
 
 ---
 
-# 3. 🔬 Scelta dell’argomento
+## 3. 🔬 Scelta dell’argomento
 
 Si consiglia di scegliere una tematica **attuale**, scientificamente **rilevante** e coerente con i propri interessi. Chiaramente deve essere congruente anche con gli interessi scientifici del relatore.
 
@@ -47,11 +47,10 @@ Per individuare argomenti di interesse è possibile consultare:
 - PubMed: https://pubmed.ncbi.nlm.nih.gov/
 
 Il sito neuroTOC non è obbligatorio, ma rappresenta uno strumento utile per monitorare articoli recenti nell’ambito delle neuroscienze e della psicobiologia.
-Evitate di selezionare articoli da Biorxiv in quanto [preprint](https://en.wikipedia.org/wiki/Preprint), ovvero articoli ancora non pubblicati ufficialmente.
 
 ---
 
-## 📚 Indicazioni bibliografiche iniziali
+### 📚 Indicazioni bibliografiche iniziali
 
 All’inizio del lavoro è fortemente consigliato:
 
@@ -65,15 +64,15 @@ Le review permettono di acquisire rapidamente una visione generale del campo e d
 
 ---
 
-## ⚠️ Fonti da evitare
+### ⚠️ Fonti da evitare
 
-Si raccomanda di evitare l’utilizzo di articoli provenienti da **bioRxiv** come principale riferimento bibliografico, poiché la piattaforma contiene prevalentemente **preprint non ancora sottoposti a revisione paritaria**.
+Si raccomanda di evitare l’utilizzo di articoli provenienti da **bioRxiv** come principale riferimento bibliografico, poiché la piattaforma contiene prevalentemente **[preprint](https://en.wikipedia.org/wiki/Preprint) non ancora sottoposti a revisione paritaria**.
 
 > ❗ I preprint possono essere utili come consultazione preliminare, ma **non devono rappresentare la base principale della bibliografia**.
 
 ---
 
-# 4. 🧪 Tipologie di tesi
+## 4. 🧪 Tipologie di tesi
 
 La tesi può essere:
 
@@ -82,9 +81,15 @@ La tesi può essere:
 
 ---
 
-## 📖 Tesi compilativa
+### 📖 Tesi compilativa
 
 La tesi compilativa deve essere concordata con il docente.
+
+La struttura minima comprende:
+
+- introduzione;
+- capitoli tematici;
+- conclusioni.
 
 Vengono generalmente accettate tesi di psicobiologia focalizzate su:
 
@@ -98,9 +103,16 @@ Vengono generalmente accettate tesi di psicobiologia focalizzate su:
 
 ---
 
-## 🧬 Tesi sperimentale
+### 🧬 Tesi sperimentale
 
 La tesi sperimentale viene concordata con il docente sulla base delle disponibilità del laboratorio e dei progetti in corso.
+
+La struttura minima comprende:
+
+- introduzione;
+- materiali e metodi;
+- risultati;
+- discussione e conclusioni.
 
 Sono comunque benvenute proposte da parte degli studenti.
 
@@ -108,11 +120,11 @@ Sono comunque benvenute proposte da parte degli studenti.
 
 ---
 
-# 5. 💻 Strumenti di lavoro
+## 5. 💻 Strumenti di lavoro
 
 ---
 
-## ✍️ Scrittura della tesi
+### ✍️ Scrittura della tesi
 
 La tesi verrà redatta tramite **Google Docs**.
 
@@ -127,7 +139,7 @@ Successivamente verranno fornite istruzioni dettagliate riguardo:
 
 ---
 
-## 📑 Gestione della bibliografia
+### 📑 Gestione della bibliografia
 
 Per la gestione delle citazioni bibliografiche verrà utilizzato **Paperpile**, integrato con Google Docs.
 
@@ -143,15 +155,55 @@ Paperpile consente di:
 
 ---
 
-# 6. 🧱 Regole generali di formattazione
+## 6. 🤖 Uso degli strumenti di intelligenza artificiale
+
+L’utilizzo di strumenti di intelligenza artificiale generativa non è vietato in modo assoluto. Questi strumenti possono essere impiegati come supporto allo studio, alla comprensione e alla revisione del testo, ma non devono sostituire il lavoro personale dello studente.
+
+### Usi consentiti
+
+Gli strumenti di intelligenza artificiale possono invece essere utilizzati, con senso critico, per:
+
+* chiarire concetti teorici o metodologici particolarmente complessi;
+* individuare parole chiave, autori o argomenti utili per approfondire la ricerca bibliografica;
+* ottenere una prima traduzione di passaggi di articoli scientifici scritti in altre lingue;
+* semplificare o riformulare periodi eccessivamente complessi;
+* verificare la chiarezza, la coerenza e la leggibilità di un testo già scritto;
+* ricevere suggerimenti sull’organizzazione di un paragrafo o sulla successione logica degli argomenti;
+* individuare possibili ambiguità, ripetizioni o passaggi poco comprensibili.
+
+### Usi vietati
+
+In particolare, è vietato utilizzare strumenti di intelligenza artificiale per generare integralmente la tesi, singoli capitoli o parti sostanziali del testo da presentare come produzione propria. La tesi deve dimostrare la capacità dello studente di comprendere la letteratura scientifica, selezionare le informazioni rilevanti, organizzarle in modo coerente e presentarle con un linguaggio autonomo. Un uso indiscriminato di testi generati automaticamente può inoltre produrre contenuti generici, imprecisi, incoerenti con le fonti o facilmente riconoscibili durante la revisione e la discussione finale.
+
+### Verifica delle informazioni
+
+Le risposte prodotte da questi strumenti devono sempre essere controllate. L’intelligenza artificiale può fornire informazioni errate, inventare riferimenti bibliografici, attribuire affermazioni agli autori sbagliati o semplificare eccessivamente concetti complessi. Ogni informazione deve quindi essere verificata direttamente sulle fonti scientifiche originali. Gli strumenti di intelligenza artificiale non devono essere citati come sostituti degli articoli, dei libri o delle altre fonti utilizzate.
+
+### Responsabilità dello studente
+
+Lo studente rimane pienamente responsabile dell’accuratezza dei contenuti, della correttezza delle citazioni, della selezione delle fonti e della forma finale del testo.
+
+## 7. ✍️ Stile di scrittura
+
+La tesi deve essere scritta in uno stile scientifico, chiaro e preciso. È preferibile utilizzare:
+
+* frasi brevi e con una struttura sintattica semplice;
+* termini specifici e utilizzati in modo coerente;
+* collegamenti logici espliciti tra le diverse affermazioni;
+* formulazioni prive di ambiguità;
+* un tono impersonale o comunque appropriato alla scrittura accademica.
+
+Devono essere evitati periodi eccessivamente lunghi, espressioni enfatiche, formulazioni vaghe e ricercatezze stilistiche che rendano il testo meno comprensibile. Nella scrittura scientifica, **la chiarezza e la precisione devono essere sempre privilegiate rispetto all’eleganza formale**.
+
+## 8. 🧱 Regole generali di formattazione
 
 Lo studente deve consultare anche le linee guida ufficiali del corso di laurea, che includono indicazioni sul frontespizio e sulla struttura generale della tesi:
 
-🔗 https://www.psicologia.unifi.it/upload/sub/LINEE%20GUIDA%20TESI%20LM-51_10_04_26-docx.pdf
+🔗 https://www.scienzetecnichepsicologiche.unifi.it/vp-17-per-laurearsi.html
 
 ---
 
-## 🗂️ Struttura del documento
+### 🗂️ Struttura del documento
 
 La tesi deve essere formattata correttamente fin dall’inizio.
 
@@ -167,9 +219,13 @@ Questo è necessario per generare automaticamente l’**indice** della tesi.
 
 > ⚠️ **Non modificare manualmente la formattazione dei titoli senza utilizzare gli **stili** di Google Docs.**
 
+### Abstract
+
+L’elaborato deve contenere un abstract in italiano e uno in inglese, ciascuno di lunghezza non superiore a <u>250 parole</u>.
+
 ---
 
-## 📘 Indice e bibliografia
+### 📘 Indice e bibliografia
 
 L’indice deve essere generato <u>automaticamente</u> usando gli strumenti di Google Docs.
 
@@ -177,7 +233,7 @@ La sezione **Bibliografia** deve essere inserita alla fine della tesi e classifi
 
 ---
 
-## 📝 Formattazione del testo
+### 📝 Formattazione del testo
 
 Il testo deve essere impostato come:
 
@@ -189,22 +245,25 @@ Il testo deve essere impostato come:
 
 ---
 
-## 📏 Lunghezza massima
+### 📏 Lunghezza minima e massima
 
-L'elaborato deve essere composto da **minimo di 4000 e massimo 6000 parole**.
+L’elaborato deve contenere **4.000–6.000 parole**.
 
 Nel conteggio si possono escludere:
 
 - Commenti alle immagini;
 - Tabelle;
 - Schemi;
-- Bibliografia
+- Bibliografia;
+- Frontespizio
+- Abstract
 
 > ⚠️ **Lavori con un numero di parole al di fuori di questo range non verranno corretti.**
 
+> 💡 Per contare le parole in Google Docs, usare lo strumento disponibile nel menu **Strumenti → Conteggio parole**.
 ---
 
-# 7. 🖼️ Immagini, figure e dati
+## 9. 🖼️ Immagini, figure e dati
 
 Se nel testo vengono discussi dati o risultati sperimentali, questi devono essere mostrati tramite figure, grafici o immagini esplicative.
 
@@ -213,15 +272,15 @@ Non è necessario inserire tutti i dati presenti negli articoli, ma è important
 > 📊 **Se si parla di dati, i dati devono essere mostrati.**
 
 Le immagini devono essere utilizzate come parte integrante della spiegazione scientifica e non come semplice elemento decorativo.
-A ogni immagine viene assegnato un numero. La prima figura sara' Figura 1. Se si inserisce un'immagine questa <u>deve</u> essere citata nel testo nella forma (Fig. 1).
-Se la figura e' composta da varie sezioni, identificare le sezioni con le lettere. Quando nel testo vi riferite ad una particolare sezione dovete menzionarla inserendo (Fig. 1a).
-Ogni immagine deve essere accompagnata da una caption (il commento della figura), con descrizione della figura stessa e di tutte le sezioni. La caption deve essere impostata in **Italico** o **Corsivo**.
+A ogni immagine viene assegnato un numero. La prima figura sarà Figura 1. Se si inserisce un’immagine, questa <u>deve</u> essere citata nel testo nella forma (Fig. 1).
+Se la figura è composta da varie sezioni, identificare le sezioni con le lettere. Quando nel testo vi riferite ad una particolare sezione dovete menzionarla inserendo (Fig. 1a).
+Ogni immagine deve essere accompagnata da una caption (il commento della figura), con descrizione della figura stessa e di tutte le sezioni. La caption deve essere scritta in **corsivo**.
 
-> Figura 1: Breve descrizione generale di quello che viene raffiguarato. A) Descrizione della sezione A. B) Descrizione della sezione B. C) ...
+> Figura 1: Breve descrizione generale di quello che viene raffigurato. A) Descrizione della sezione A. B) Descrizione della sezione B. C) ...
 
 ---
 
-## ✅ Ogni immagine deve:
+### ✅ Ogni immagine deve:
 
 - essere numerata progressivamente (**Figura 1, Figura 2, ecc.**);
 - contenere una **caption descrittiva**;
@@ -236,13 +295,15 @@ Nel testo le figure devono essere richiamate utilizzando la forma abbreviata:
 - **(Fig. 2)**
 - ecc.
 
-Alla fine della caption deve essere sempre riportata la <u>fonte</u> nel formato:
+Figure, grafici e dati devono riportare sempre una <u>fonte</u>.
 
-- **(Fonte Cognome et al.)**
+Alla fine della caption indicare:
 
-Se invece l'immagine e' stata creata da voi potete non scrivere nulla.
-Se l'immagine e' stata creata con Intelligenza artificiale citate quale modello avete usato.
-Se l'immagine e' stata presa da un sito internet potete inserire il dominio del sito (sitoimmagine.com)
+- **(Fonte Cognome et al.)** per materiale tratto da articoli;
+- **(Fonte sitoimmagine.com)** per materiale tratto da siti internet;
+- **(Fonte: elaborazione propria)** per materiale creato dallo studente.
+
+Per immagini generate o modificate con intelligenza artificiale deve essere dichiarato lo **strumento**.
 
 ### ✨ Esempio
 
@@ -250,7 +311,7 @@ Se l'immagine e' stata presa da un sito internet potete inserire il dominio del 
 
 ---
 
-## 🚫 Cosa evitare
+### 🚫 Cosa evitare
 
 Non devono essere inseriti pannelli completi di figure direttamente copiati dagli articoli scientifici.
 
@@ -264,7 +325,7 @@ Non devono essere inseriti pannelli completi di figure direttamente copiati dagl
 
 ---
 
-## 🎤 Collegamento con la presentazione orale
+### 🎤 Collegamento con la presentazione orale
 
 Le immagini e i dati presenti nella tesi rappresentano il punto di partenza per la preparazione della presentazione orale finale.
 
@@ -280,25 +341,25 @@ Per questo motivo:
 
 ---
 
-# 8. ⏳ Scadenze per la revisione
+## 10. ⏳ Scadenze per la revisione
 
 La consegna della tesi al docente per la correzione finale deve avvenire **non oltre due settimane prima** della deadline ufficiale per la domanda di laurea.
 
 Consegne effettuate oltre questa scadenza potrebbero non garantire tempi sufficienti per la revisione completa dell’elaborato.
 
-> ⚠️ **Le correzioni richiedono tempo. Una consegna tardiva può compromettere la qualità finale della tesi.** Le tesi che non passano il test di qualita' non sono eligibili per la discussione finale e non verranno accettate.
+> ⚠️ **Le correzioni richiedono tempo. Una consegna tardiva può compromettere la qualità finale della tesi. Le tesi che non superano il controllo di qualità non saranno ammesse alla discussione finale.**
 
-# 9. 📧 Invio della tesi alla Commissione
+## 11. 📧 Invio della tesi alla Commissione
+
+Prima dell’invio alla Commissione, caricare nel Drive condiviso le versioni definitive della tesi e della presentazione.
 
 Quando viene annunciata la composizione della Commissione di laurea, lo studente deve inviare il proprio elaborato di tesi a **tutti i membri della Commissione**, includendo anche il **relatore** tra i destinatari.
 
 L’invio deve avvenire con adeguato anticipo rispetto alla data della discussione, allegando alla mail il file della tesi in formato PDF. La tesi deve essere nel formato finale, contenente tutte le parti della stessa, compreso il <u>Frontespizio</u>.
 
-> ⚠️ **La tesi deve essere inviata all’intera Commissione, relatore compreso.**
-
 ---
 
-## ✉️ Modello di email
+### ✉️ Modello di email
 
 **Oggetto:** Elaborato di Tesi Triennale di [Nome Cognome candidato]
 
