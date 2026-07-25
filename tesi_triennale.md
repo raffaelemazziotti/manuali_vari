@@ -1,4 +1,4 @@
-# 🧠 Linee guida per la tesi di laurea triennale in Psicologia
+# 🧠 Linee guida per la tesi di laurea triennale in Psicobiologia [RM Mazziotti]
 
 > Indicazioni generali per studenti interessati a svolgere una tesi in ambito psicobiologico, neuroscientifico e translazionale.
 
@@ -12,11 +12,11 @@ Le date e le relative scadenze possono essere consultate nel calendario didattic
 
 🔗 https://www.psicologia.unifi.it/vp-367-orario-e-calendario-didattico.html
 
-È importante verificare con attenzione:
+È importante verificare con attenzione e appuntare:
 
 - la **deadline** per la domanda di laurea;
-- le scadenze amministrative;
-- le tempistiche per la consegna della tesi.
+- le **scadenze** amministrative;
+- le **tempistiche** per la consegna della tesi.
 
 > ⚠️ **Le tempistiche universitarie sono rigide. Organizzarsi con largo anticipo è fondamentale.**
 
@@ -28,10 +28,10 @@ Dopo aver individuato la sessione di laurea desiderata, lo studente deve contatt
 
 Durante il primo incontro verranno discussi:
 
-- l’argomento della tesi;
-- la tipologia di elaborato;
-- la fattibilità del progetto;
-- le tempistiche di lavoro.
+- l’**argomento** della tesi;
+- la **tipologia** di elaborato (compilativo/sperimentale);
+- la **fattibilità** del progetto;
+- le **tempistiche** di lavoro.
 
 > 💡 **Prima di iniziare a scrivere qualsiasi materiale è necessario confrontarsi con il relatore.**
 
@@ -39,7 +39,7 @@ Durante il primo incontro verranno discussi:
 
 # 3. 🔬 Scelta dell’argomento
 
-Si consiglia di scegliere una tematica **attuale**, scientificamente rilevante e coerente con i propri interessi.
+Si consiglia di scegliere una tematica **attuale**, scientificamente **rilevante** e coerente con i propri interessi. Chiaramente deve essere congruente anche con gli interessi scientifici del relatore.
 
 Per individuare argomenti di interesse è possibile consultare:
 
@@ -47,6 +47,7 @@ Per individuare argomenti di interesse è possibile consultare:
 - PubMed: https://pubmed.ncbi.nlm.nih.gov/
 
 Il sito neuroTOC non è obbligatorio, ma rappresenta uno strumento utile per monitorare articoli recenti nell’ambito delle neuroscienze e della psicobiologia.
+Evitate di selezionare articoli da Biorxiv in quanto [preprint](https://en.wikipedia.org/wiki/Preprint), ovvero articoli ancora non pubblicati ufficialmente.
 
 ---
 
@@ -156,21 +157,21 @@ La tesi deve essere formattata correttamente fin dall’inizio.
 
 Ogni elemento del testo deve essere classificato con il tag appropriato in Google Docs:
 
-- titolo del documento;
+- **titolo** del documento;
 - titoli principali come **Heading 1**;
 - sottosezioni come **Heading 2**;
 - eventuali sottoparagrafi come **Heading 3**;
 - testo principale come **paragrafo**.
 
-Questo è necessario per generare automaticamente l’indice della tesi.
+Questo è necessario per generare automaticamente l’**indice** della tesi.
 
-> ⚠️ **Non modificare manualmente la formattazione dei titoli senza utilizzare gli stili di Google Docs.**
+> ⚠️ **Non modificare manualmente la formattazione dei titoli senza utilizzare gli **stili** di Google Docs.**
 
 ---
 
 ## 📘 Indice e bibliografia
 
-L’indice deve essere generato automaticamente usando gli strumenti di Google Docs.
+L’indice deve essere generato <u>automaticamente</u> usando gli strumenti di Google Docs.
 
 La sezione **Bibliografia** deve essere inserita alla fine della tesi e classificata come **Heading 1**.
 
@@ -190,16 +191,16 @@ Il testo deve essere impostato come:
 
 ## 📏 Lunghezza massima
 
-Il limite massimo della tesi è di **25 pagine**, esclusa la bibliografia.
+L'elaborato deve essere composto da **minimo di 4000 e massimo 6000 parole**.
 
-Nel conteggio delle pagine devono essere incluse anche:
+Nel conteggio si possono escludere:
 
-- immagini;
-- grafici;
-- schemi;
-- figure.
+- Commenti alle immagini;
+- Tabelle;
+- Schemi;
+- Bibliografia
 
-> ⚠️ **Superare il limite massimo senza autorizzazione non è consentito.**
+> ⚠️ **Lavori con un numero di parole al di fuori di questo range non verranno corretti.**
 
 ---
 
@@ -212,6 +213,11 @@ Non è necessario inserire tutti i dati presenti negli articoli, ma è important
 > 📊 **Se si parla di dati, i dati devono essere mostrati.**
 
 Le immagini devono essere utilizzate come parte integrante della spiegazione scientifica e non come semplice elemento decorativo.
+A ogni immagine viene assegnato un numero. La prima figura sara' Figura 1. Se si inserisce un'immagine questa <u>deve</u> essere citata nel testo nella forma (Fig. 1).
+Se la figura e' composta da varie sezioni, identificare le sezioni con le lettere. Quando nel testo vi riferite ad una particolare sezione dovete menzionarla inserendo (Fig. 1a).
+Ogni immagine deve essere accompagnata da una caption (il commento della figura), con descrizione della figura stessa e di tutte le sezioni. La caption deve essere impostata in **Italico** o **Corsivo**.
+
+> Figura 1: Breve descrizione generale di quello che viene raffiguarato. A) Descrizione della sezione A. B) Descrizione della sezione B. C) ...
 
 ---
 
@@ -230,13 +236,17 @@ Nel testo le figure devono essere richiamate utilizzando la forma abbreviata:
 - **(Fig. 2)**
 - ecc.
 
-Alla fine della caption deve essere sempre riportata la fonte nel formato:
+Alla fine della caption deve essere sempre riportata la <u>fonte</u> nel formato:
 
 - **(Fonte Cognome et al.)**
 
+Se invece l'immagine e' stata creata da voi potete non scrivere nulla.
+Se l'immagine e' stata creata con Intelligenza artificiale citate quale modello avete usato.
+Se l'immagine e' stata presa da un sito internet potete inserire il dominio del sito (sitoimmagine.com)
+
 ### ✨ Esempio
 
-*Figura 1. Attivazione delle principali aree coinvolte nel processamento emotivo. (Fonte Smith et al.)*
+*Figura 1. Attivazione delle principali aree coinvolte nel processamento emotivo. (Fonte Smith et al. 2020)*
 
 ---
 
@@ -276,13 +286,13 @@ La consegna della tesi al docente per la correzione finale deve avvenire **non o
 
 Consegne effettuate oltre questa scadenza potrebbero non garantire tempi sufficienti per la revisione completa dell’elaborato.
 
-> ⚠️ **Le correzioni richiedono tempo. Una consegna tardiva può compromettere la qualità finale della tesi.**
+> ⚠️ **Le correzioni richiedono tempo. Una consegna tardiva può compromettere la qualità finale della tesi.** Le tesi che non passano il test di qualita' non sono eligibili per la discussione finale e non verranno accettate.
 
 # 9. 📧 Invio della tesi alla Commissione
 
 Quando viene annunciata la composizione della Commissione di laurea, lo studente deve inviare il proprio elaborato di tesi a **tutti i membri della Commissione**, includendo anche il **relatore** tra i destinatari.
 
-L’invio deve avvenire con adeguato anticipo rispetto alla data della discussione, allegando alla mail il file della tesi in formato PDF.
+L’invio deve avvenire con adeguato anticipo rispetto alla data della discussione, allegando alla mail il file della tesi in formato PDF. La tesi deve essere nel formato finale, contenente tutte le parti della stessa, compreso il <u>Frontespizio</u>.
 
 > ⚠️ **La tesi deve essere inviata all’intera Commissione, relatore compreso.**
 
@@ -290,13 +300,13 @@ L’invio deve avvenire con adeguato anticipo rispetto alla data della discussio
 
 ## ✉️ Modello di email
 
-**Oggetto:** Tesi di Laurea, [Nome Cognome candidato] ([matricola])
+**Oggetto:** Elaborato di Tesi Triennale di [Nome Cognome candidato]
 
 Gentile Commissione,
 
 sono [Nome Cognome], studentessa/studente del corso di laurea in [corso], matricola [matricola].
 
-Discuterò la mia tesi di laurea dal titolo *"[Titolo della tesi]"*, di cui è relatore il Professor/la Professoressa [Nome Cognome relatore], il giorno [data della discussione].
+Discuterò la mia tesi di laurea dal titolo *"[Titolo della tesi]"*, di cui è relatore il Professor/la Professoressa [Nome Cognome relatore], il giorno [data della discussione] alle ore [orario].
 
 Allego alla presente il mio elaborato di tesi in formato PDF.
 
